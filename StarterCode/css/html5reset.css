@@ -1,0 +1,74 @@
+/* 
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com 
+Twitter: @rich_clark
+*/
+
+body{
+    background-color:black;
+    color: white;
+    font-family: 'Lucida Grande', sans-serif;
+}
+
+p{
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+h1{
+    font-size:64px;
+    text-align:center;
+}
+
+h2{
+    font-size:30px;
+    text-shadow:5px 5px 2px #808080;
+}
+
+img{
+	display:block;
+    width:525px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+		
+}
+
+div{
+    height:auto;
+    min-height:150px;
+    padding: 25px;
+}
+
+#red{
+    background-color: #D11F00;
+    text-align: right;
+}
+
+#blue{
+    background-color:#0000FF;
+    text-align: left;
+}
+
+#yellow{
+    background-color:#FFFF38;
+    text-align: right;
+    color:black;
+}
+
+#yellow h2{
+text-shadow:5px 5px 2px #c7e2c7;
+}
+
+#green{
+    background-color:#005700;
+    text-align: left;
+}
+
+footer{
+    text-align: right;
+    padding-bottom:10px;
+    padding-right:10px;
+}
